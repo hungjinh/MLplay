@@ -3,7 +3,10 @@
 *.out
 *.so
 *.exe
+
 develop_log.md
+*hw*
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
