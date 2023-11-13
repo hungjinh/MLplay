@@ -1,11 +1,12 @@
+# Specific to this repo
+develop_log.md
+*hw*
+
 # Compiled source
 *.o
 *.out
 *.so
 *.exe
-
-develop_log.md
-*hw*
 
 # Jupyter Notebook
 .ipynb_checkpoints
